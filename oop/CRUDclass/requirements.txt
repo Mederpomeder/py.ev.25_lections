@@ -1,0 +1,7 @@
+json 
+Beuatifulsoup
+requests
+csv
+multiproccesing
+datetime
+lxml
